@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-earth-950: #3D2B1F;
+  --color-earth-900: #5D3A1A;
+  --color-earth-800: #7D4E2A;
+  --color-earth-100: #F5F1ED;
+  --color-earth-50: #FAF9F6;
+  
+  --color-gold-600: #D97706;
+  --color-gold-500: #F59E0B;
+  --color-gold-400: #FBBF24;
+}
